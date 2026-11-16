@@ -1,0 +1,252 @@
+.navbar {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;            
+    padding: 18px 48px;
+    background: #1f3c88;         
+}
+
+.logo {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.menu {
+    display: flex;   
+    gap: 24px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu a {
+    color: #c9d6f5;
+    text-decoration: none;
+    padding-bottom: 4px;
+    border-bottom: 2px solid transparent;
+}
+
+.menu a:hover {
+    color: white;
+    border-bottom-color: #2ec4b6; 
+}
+
+.hero {
+    display: flex;
+    align-items: center; 
+    gap: 40px;
+    padding: 60px 40px;
+}
+
+.hero-img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%; 
+}
+
+.hero-text {
+    flex: 1;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 12px 24px;
+    background: #1f3c88;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #2ec4b6;
+}
+
+
+.skills {
+    padding: 40px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card {
+    flex: 1;
+    min-width: 200px;
+    padding: 20px;
+    border: 1px solid #cbd5e1;
+    border-radius: 12px;
+}
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f4f6fb;
+    color: #1e293b;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 48px;
+    background: #1f3c88;
+}
+
+.logo {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.menu {
+    display: flex;
+    gap: 24px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu a {
+    color: #c9d6f5;
+    text-decoration: none;
+    padding-bottom: 4px;
+    border-bottom: 2px solid transparent;
+}
+
+.menu a:hover {
+    color: white;
+    border-bottom-color: #2ec4b6;
+}
+
+
+.hero {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding: 60px 40px;
+}
+
+.hero-img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    outline: 3px dashed #2ec4b6;
+    outline-offset: 8px;
+}
+
+.hero-text {
+    flex: 1;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 12px 28px;
+    background: #1f3c88;
+    color: white;
+    border-radius: 999px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.btn:hover {
+    background: #2ec4b6;
+}
+
+.skills {
+    padding: 40px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card {
+    flex: 1;
+    min-width: 200px;
+    padding: 20px;
+    background: white;
+    border-top: 6px solid #2ec4b6;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+}
+
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 48px;
+    background: #1f3c88;
+    color: #c9d6f5;
+    margin-top: 40px;
+}
+.register1 {
+    text-align: center;
+    background-color: #3ca9a0;
+    padding: 30px;
+    border-radius: 23px;
+    font-size: 35px;
+
+}
+.forma1{
+    background-color: #5263b4;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    padding-left: 150px;
+}
+.tel{
+    background-color: #5263b4;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    padding-left: 150px;
+}
+.email{
+    background-color: #5263b4;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    padding-left: 150px;
+}
+.manzil{
+    background-color: #5263b4;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    padding-left: 150px;
+}
+.instagram{
+    background-color: #5263b4;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    padding-left: 150px;
+}
+.btn{
+    background-color: #3ca9a0;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    padding-left: 150px;
+}
+.btn1{
+    background-color: #3ca9a0;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    padding-left: 150px;
+}
